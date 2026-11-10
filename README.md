@@ -3,7 +3,7 @@
 
 **DATE: 10-11-2026**
 
-**NAME: Jeya Soundhar**
+**NAME: Jeya Soundhar P**
 
 **ROLL NO: 212224040138**
 
@@ -127,14 +127,12 @@ int main(void)
 ```
 
 ## OUTPUT
+<img width="1917" height="1140" alt="image" src="https://github.com/user-attachments/assets/1e1265da-2d4a-4cbe-b542-aa9c4a794799" />
+<img width="1917" height="1143" alt="image" src="https://github.com/user-attachments/assets/56b92f6d-f007-450f-b00f-c39aa42b4861" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d716bf67-844d-4a95-a42d-0177e35a05e5" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8e43bfe2-f12a-4304-9f64-44466e224058" />
 
-![alt text](screenshots/image-1.png)
 
-![alt text](screenshots/image-2.png)
-
-![alt text](screenshots/image-3.png)
-
-![alt text](screenshots/image-4.png)
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
